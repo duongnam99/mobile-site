@@ -1,22 +1,22 @@
 # Điều gì tạo nên một trang web di động tốt?  
-Jenny Gove là trưởng bộ phận nghiên cứu UX tại Google, nơi cô tiến hành nghiên cứu về trải nghiệm trên smartphone. Cô lấy bằng tiến sĩ tại đại học Southampton, Anh.   
+Jenny Gove là trưởng bộ phận nghiên cứu UX tại Google, nơi cô tiến hành nghiên cứu về trải nghiệm trên smartphone. Cô có bằng tiến sĩ tại đại học Southampton, Anh.   
 
 Google và AnswerLab đã tiến hành nghiên cứu để trả lời câu hỏi này:  
 ```
 Người dùng mobile rất có mục tiêu định hướng. Họ mong đợi có thể có đưọc thứ họ cần, ngay lập tức, trên những điều kiện của họ.  
 ```
-Nghiên cứu đưọc kéô dài trong 119h, trực tiếp với sử dụng những ngưòi tham gia ở Mĩ. Những người tham gia đưọc yêu cầu thực hiện các tác vụ chính trên một tập hợp các trang mobile. Bao gồm IOS và Android, ngưòi dùng test các trang trên chính điện thoại của họ. Với từng trang web, những ngưòi tham gia sẽ đưọc yêu cầu nói to suy nghĩ của mình khi hoàn thành các công việc như mua hàng hoặc đặt trước.  
+Nghiên cứu đưọc kéô dài trong 119h, trực tiếp với sử dụng những ngưòi tham gia ở Mĩ. Những người tham gia đưọc yêu cầu thực hiện các tác vụ chính trên một tập hợp các trang mobile. Bao gồm IOS và Android, ngưòi dùng test các trang trên chính điện thoại của họ. Với từng trang web, những ngưòi tham gia sẽ đưọc yêu cầu nói to suy nghĩ của mình khi hoàn thành các công việc như mua hàng hoặc đặt phòng.  
 Nghiên cứu đã phát hiện 25 ngưyên tắc thiết kế mobile, chia làm 5 loại.  
 
 ## Trang chủ và phần điều hưóng trang web
 ```
 Success: tập chung vào trang chủ (mobile) và kết nối người dùng đến những gì họ đang tìm kiếm 
 ```
-### Keep calls to action front and center  
-Khiến các tác vụ phụ là có thể thông qua menu hoặc 'dưới màn hình đầu tiên' (một phần của trang web  không thể được xem nếu không kéo xuống)
+### Giữa các lời gọi hành động ở trước và giữa  
+Thực hiện các tác vụ phụ là có thể thông qua menu hoặc 'dưới màn hình đầu tiên' (một phần của trang web  không thể được xem nếu không kéo xuống)
 
 ![][1]  
-Nên: Khiến hầu hết các tác vụ của người dùng trở nên dễ dàng nhất có thể  
+Nên: Thực hiện hầu hết các tác vụ của người dùng trở nên dễ dàng nhất có thể  
 
 ![][2]  
 **Không nên** Lãng phí không gian trên màn hình đầu tiên với các lời kêu gọi không rõ ràng như "learn more"  
@@ -26,32 +26,32 @@ Nên: Khiến hầu hết các tác vụ của người dùng trở nên dễ d�
 **Nên** giữu menu ngắn gọn và hấp dẫn.  
 Người dùng mobile không có kiên nhẫn để kéo cả một danh sách dài các lựa chọn để tìm thứ họ muốn. Sắp xếp lại  menu càng gọn càng tốt, mà không phải hi sinh tính khả dụng  
 
-### Khiến việc về trang chủ thật dễ dàng  
+### Làm việc về trang chủ thật dễ dàng  
 ![][4]  
-**Nên** Khiến việc về trang chủ thật dễ dàng  
+**Nên** Làm việc về trang chủ thật dễ dàng  
 Ngưòi dùng mong đợi về trang chủ khi nhấn vào logo trên  góc trên  bên trái của trang mobile, và họ sẽ trở nên bực bội nếu nó không khả dụng hoặc không hoạt động.
 
 ### Đừng để quảng cáo chiếm phần hiển thị  
-Nhiều app cài đặt quảng cáo xen kẽ ( ví dụ như quảng cáo full-page mà che đi nội dung và nhắc nhở người dùng cài đặt ứng dụng) làm phiền người dùng và khiến việc thực hiện các tắc vụ trở nên khó khăn. Ngoài việc làm phiền ngưòi dùng, các trang sử dụng quảng cáo xen kẽ có thể gặp tác động tiêu cực đến thứ hạng tìm kiếm của họ.  
+Nhiều app cài đặt quảng cáo xen kẽ ( ví dụ như quảng cáo full-page mà che đi nội dung và nhắc nhở người dùng cài đặt ứng dụng) làm phiền người dùng và khiến việc thực hiện các tắc vụ trở nên khó khăn. Ngoài việc làm phiền ngưòi dùng, các trang sử dụng quảng cáo xen kẽ có thể tác động tiêu cực đến thứ hạng tìm kiếm của họ.  
 ![][5]  
 **Nên** Quảng có nên dễ dàng bị loại bỏ và không gây xao lãng đén trải nhiệm.  
 ![][6]  
 **Không nên** Quảng cáo xen kẽ (đôi khi được gọi là sập cửa) thưòng khiến ngưòi dùng khó chịu và ảnh hưởng xấu đến trang web  
 
-### Nghiên cứu trang web  
+### Tìm kiếm trang web  
 **Thành công**: giúp ngưòi dùng mobile tìm thấy những gì họ đang tìm kiếm một cách nhanh chóng  
 
 ### Hiển thị phần tìm kiếm  
-Ngưòi dùng tìm kiếm thông tin thường chuyển sang search, như thế ô search nên là một trong những thứ đầu tiên họ thấy trên trang của bạn. Đừng giấu search box trong menu.  
+Ngưòi dùng tìm kiếm thông tin thường chuyển sang search, như thế ô search nên là một trong những thứ đầu tiên họ thấy trên trang của bạn. Đừng giấu ô search trong menu.  
 ![][7]    
 **Nên** hiển thị ô search  
 ![][8]  
-**Không nên** Giấu ô seach trong overflow menus  
+**Không nên** Giấu ô seach trong menu phải tràn ra  
 
 ### Đảm bảo kết quả search là hợp lí  
-Ngưòi dùng không đi qua nhiều trang kết quản tìm kiếm để tìm thấy thứ họ đang tìm kiếm. Khiến mọi chuyện dễ dàng hơn cho ngưòi dùng bằng: tự động hoàn thành, sửa lỗi chính tả, gợi ý liên quan. thay vì lại phát minh một chiếc bánh xe, hãy cân nhắc sử dụng các sản phẩm mạnh mẽ như Google Custom Search  
+Ngưòi dùng không duyệt qua nhiều trang kết quản tìm kiếm để tìm thấy thứ họ đang tìm kiếm. Giúp người dùng dễ dàng hơn cho ngưòi dùng bằng: tự động hoàn thành, sửa lỗi chính tả, gợi ý liên quan. thay vì làm lại cái đã có, hãy tham khảo sử dụng các sản phẩm mạnh mẽ như Google Custom Search  
 ![][9]    
-**Nên** Macy's chỉ trả về các món đồ trả em khi search "kid"  
+**Nên** Macy's chỉ trả về các món đồ trẻ em khi search "kid"  
 ![][10]    
 **Không nên** Trả về bất cứ thứ gì chứ từ 'kid'  
 
@@ -66,26 +66,26 @@ Những người tham gia nghiên cứu dựa vào các bộ lọc để tìm th
 
 ### Hướng dẫn ngưòi dùng để có kết quả tìm kiếm tốt hơn  
 ![][13]    
-**Nên** giúp ngưòi dùng tìm htaays những gì họ đang tìm kiếm bằng các hưóng dẫn họ đi đúng hướng  
+**Nên** giúp ngưòi dùng tìm thấy những gì họ đang tìm kiếm bằng các hưóng dẫn họ đi đúng hướng  
 
-Đối với các site có phân khúc khách hàng đa dạng, đưa ra một số câu hỏi trước khi hiển thị thanh tìm kiếm, và sử dụng phản của khách hàng làm bộ lọc truy vấn tìm kiếm để đảm bảo người dùng có các kết quả liên quan nhất.
+Đối với các site có phân khúc khách hàng đa dạng, đưa ra một số câu hỏi trước khi hiển thị thanh tìm kiếm, và sử dụng câu trả lời của khách hàng làm bộ lọc truy vấn tìm kiếm để đảm bảo người dùng có các kết quả liên quan nhất.
 
 ## Thương mại và sự chuyển đổi  
-**Success** Hiểu hành trình khách hàng và để người dùng chuyển đổi theo cách riêng của họ  
+**Success** Hiểu luồng khách hàng và để người dùng chuyển đổi theo cách riêng của họ  
 
 ### Cho người dùng trải nghiệm trước khi họ cam kết  
 Những người tham gia nghiên cứu đã thất vọng bởi các site yêu cầu đăng ký trước để xem trang web, đặc biệt là khi thương hiệu không phải là quen thuộc. Mặc dù thông tin khách hàng có thể là quan trọng với việc kinh doanh của bạn, yêu cầu quá sớm có thể khiến ít đăng ký hơn.  
 ![][14]    
 **Nên** Cho ngưòi dùng xem trang mà không yêu cầu đăng kí  
 ![][15]    
-**Không nên**: Hiển thị phần login quá sớm  
+**Không nên**: Hiển thị phần đăng nhập quá sớm  
 
-### Hãy để người dùng trả phí dưới dạng khách  
+### Hãy để người dùng thanh toán dưới dạng khách  
 ![][16]    
 
-**Nên** Cho phép ngưòi dùng chi chả với tài khoản khách  
+**Nên** Cho phép ngưòi dùng chi thanh toán với tài khoản khách  
 
-Những người tham gia thử nghiệm nhìn nhận việc chi trả bằng tài khoản khách là rất tiện lợi, đơn giản và nhanh chóng. Ngưòi dùng sẽ bị phiền bởi những trang mà ép họ phải đăng ký tài khoản khi mua hàng, đặc biệt khi lợi ích của việc sở hữu tài khoản là không rõ ràng.
+Những người tham gia thử nghiệm nhìn nhận việc thanh toán bằng tài khoản khách là rất tiện lợi, đơn giản và nhanh chóng. Ngưòi dùng sẽ bị phiền bởi những trang mà ép họ phải đăng ký tài khoản khi mua hàng, đặc biệt khi lợi ích của việc sở hữu tài khoản là không rõ ràng.
 
 ### Dùng thông tin có sẵn để tối đa sự tiện lợi  
 Ghi nhớ và điền sẵn các tùy chọn cho người dùng đã đăng ký. Cung cấp dịch vụ thanh toán quen thuộc, bên thứ ba cho người dùng mới.  
@@ -97,13 +97,13 @@ Trên những thiết bị có chức năng gọi điện, các đường dẫn 
 ![][17]  
 **Nên** Giứp ngưòi dùng dễ dàng hoàn thành việc duyệt hay mua sắm trên thiết bị khác  
 
-Ngưòi thường muốn kết thúc tác vụ trên thiết bị khác. Ví dụ, họ có thể muốn xem một sản phẩm trên màn hình lớn hơn. Hoặc họ có thể đang bận và muốn hoànn thành nó sau. Hãy hỗ trợ trải nghiệm này của khách hàng bằng cách cho phép người dùng chia sẻ vật phẩm trên mạng xã hội, hoặc cho phép người dùng tự email cho bản thânLựa chọn input đơn giản nhất
+Ngưòi thường muốn kết thúc tác vụ trên thiết bị khác. Ví dụ, họ có thể muốn xem một sản phẩm trên màn hình lớn hơn. Hoặc họ có thể đang bận và muốn hoàn thành nó sau. Hãy hỗ trợ trải nghiệm này của khách hàng bằng cách cho phép người dùng chia sẻ vật phẩm trên mạng xã hội, hoặc cho phép người dùng tự email cho bản thân Lựa chọn input đơn giản nhất
 Sử dụng kiểu input phù hợp nhất đối với mỗi trường hợp. Sử dụng các thành phần như datalist để có các giá trị gợi ý cho một trường.
 
  các link trực tiếp từ trong site.
 
 ### Form entry  
-**Success** Cung cấp các chuyển đổi liền mạch, không vấp váp với các hình thức có thể sử dụng  
+**Success** Cung cấp các chuyển đổi liền mạch, mượt mà với các form có thể sử dụng  
 
 ### Điều hướng tại mục thông tin nhập vào  
 Tự động chuyển sang trường tiếp theo khi người dùng nhấn quay lại.  Nhìn chung, càng ít tab ngưòi dùng phải thực hiện, càng tốt.
@@ -116,12 +116,12 @@ Sử dụng kiểu input phù hợp nhất đối với mỗi trường hợp. S
 
 **Nên**: dùng calendar widget khi có thể   
 
-ghi rõ ngày bắt đầu và ngày kết thúc. Ngưòi dùng không nên rời trang web chỉ để xem ngày và lên lịch.  
+Ghi rõ ngày bắt đầu và ngày kết thúc. Ngưòi dùng không nên rời trang web chỉ để xem ngày và lên lịch.  
 
 ### Giảm thiểu lỗi bằng hiển thị nhãn và validate real-time
 ![]()  
 
-**Nên** hiển thị nội dung tại bát cứ chỗ nào có thể 
+**Nên** hiển thị nội dung tại bất cứ chỗ nào có thể 
 
 Nhập nhãn chính xác và validate input real-time  
 
@@ -138,7 +138,7 @@ Sử dụng [responsive layout][3]  mà thay đổi dựa trên kích cỡ  và 
 
 ### Đừng để người dùng phải nhấn vào để phóng to
 
-Người dùng thoải mái với việc scroll trang theo chiều dọc hơn là  theo chiều ngang. Hãy tránh các thành phần lớn và có độ rộng cố định. Đừng tạo ra nội dung  mà chỉ hiển thị tốt tại một [khung hình có độ rộng nhất định][34]. Các trang ép người dùng phải scroll theo chiều ngang sẽ  không vượt qua [Google Mobile-Friendly Test][35], điều này sẽ ảnh hưởng tiêu cực đến thứ hạng tìm kiếm của họ. 
+Người dùng thoải mái với việc scroll trang theo chiều dọc hơn là  theo chiều ngang. Hãy tránh các thành phần quá lớn và có độ rộng cố định. Đừng tạo ra nội dung  mà chỉ hiển thị tốt tại một [khung hình có độ rộng nhất định][34]. Các trang ép người dùng phải scroll theo chiều ngang sẽ  không vượt qua [Google Mobile-Friendly Test][35], điều này sẽ ảnh hưởng tiêu cực đến thứ hạng tìm kiếm của họ. 
 
 ### Hãy làm các ảnh sản phẩm có thể  mở rộng 
 
