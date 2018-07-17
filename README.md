@@ -15,27 +15,27 @@ Success: tập chung vào trang chủ (mobile) và kết nối người dùng đ
 ### Keep calls to action front and center  
 Khiến các tác vụ phụ là có thể thông qua menu hoặc 'dưới màn hình đầu tiên' (một phần của trang web  không thể được xem nếu không kéo xuống)
 
-![]()  
+![][1]  
 Nên: Khiến hầu hết các tác vụ của người dùng trở nên dễ dàng nhất có thể  
 
-![]()  
+![][2]  
 **Không nên** Lãng phí không gian trên màn hình đầu tiên với các lời kêu gọi không rõ ràng như "learn more"  
 
 ### Gĩư các menu ngắn gọn và hấp dẫn   
-![]()  
+![][3]  
 **Nên** giữu menu ngắn gọn và hấp dẫn.  
 Người dùng mobile không có kiên nhẫn để kéo cả một danh sách dài các lựa chọn để tìm thứ họ muốn. Sắp xếp lại  menu càng gọn càng tốt, mà không phải hi sinh tính khả dụng  
 
 ### Khiến việc về trang chủ thật dễ dàng  
-![]()  
+![][4]  
 **Nên** Khiến việc về trang chủ thật dễ dàng  
 Ngưòi dùng mong đợi về trang chủ khi nhấn vào logo trên  góc trên  bên trái của trang mobile, và họ sẽ trở nên bực bội nếu nó không khả dụng hoặc không hoạt động.
 
 ### Đừng để quảng cáo chiếm phần hiển thị  
 Nhiều app cài đặt quảng cáo xen kẽ ( ví dụ như quảng cáo full-page mà che đi nội dung và nhắc nhở người dùng cài đặt ứng dụng) làm phiền người dùng và khiến việc thực hiện các tắc vụ trở nên khó khăn. Ngoài việc làm phiền ngưòi dùng, các trang sử dụng quảng cáo xen kẽ có thể gặp tác động tiêu cực đến thứ hạng tìm kiếm của họ.  
-![]()  
+![][5]  
 **Nên** Quảng có nên dễ dàng bị loại bỏ và không gây xao lãng đén trải nhiệm.  
-![]()  
+![][6]  
 **Không nên** Quảng cáo xen kẽ (đôi khi được gọi là sập cửa) thưòng khiến ngưòi dùng khó chịu và ảnh hưởng xấu đến trang web  
 
 ### Nghiên cứu trang web  
@@ -43,29 +43,29 @@ Nhiều app cài đặt quảng cáo xen kẽ ( ví dụ như quảng cáo full-
 
 ### Hiển thị phần tìm kiếm  
 Ngưòi dùng tìm kiếm thông tin thường chuyển sang search, như thế ô search nên là một trong những thứ đầu tiên họ thấy trên trang của bạn. Đừng giấu search box trong menu.  
-![]()  
+![][7]    
 **Nên** hiển thị ô search  
-![]()  
+![][8]  
 **Không nên** Giấu ô seach trong overflow menus  
 
 ### Đảm bảo kết quả search là hợp lí  
 Ngưòi dùng không đi qua nhiều trang kết quản tìm kiếm để tìm thấy thứ họ đang tìm kiếm. Khiến mọi chuyện dễ dàng hơn cho ngưòi dùng bằng: tự động hoàn thành, sửa lỗi chính tả, gợi ý liên quan. thay vì lại phát minh một chiếc bánh xe, hãy cân nhắc sử dụng các sản phẩm mạnh mẽ như Google Custom Search  
-![]()  
+![][9]    
 **Nên** Macy's chỉ trả về các món đồ trả em khi search "kid"  
-![]()  
+![][10]    
 **Không nên** Trả về bất cứ thứ gì chứ từ 'kid'  
 
 ### Dùng bộ lọc để thu hẹp kết quả  
 Những người tham gia nghiên cứu dựa vào các bộ lọc để tìm thứ họ tìm kiếm, và  và từ bỏ các trang mà không có bộ lọc tìm kiếm. Đặt các bộ lọc phía trên các kết quả tìm kiếm, và giúp người dùng bằng cách hiển thị có bao nhiêu kết quả được trả về khi họ dùng bộ lọc.
-![]()  
+![][11]  
 
 **Nên**: Tạo bộ lọc dễ dàng  
-![]()  
+![][12]    
 
 **Không nên**: Ân tính năng lọc  
 
 ### Hướng dẫn ngưòi dùng để có kết quả tìm kiếm tốt hơn  
-![]()  
+![][13]    
 **Nên** giúp ngưòi dùng tìm htaays những gì họ đang tìm kiếm bằng các hưóng dẫn họ đi đúng hướng  
 
 Đối với các site có phân khúc khách hàng đa dạng, đưa ra một số câu hỏi trước khi hiển thị thanh tìm kiếm, và sử dụng phản của khách hàng làm bộ lọc truy vấn tìm kiếm để đảm bảo người dùng có các kết quả liên quan nhất.
@@ -75,13 +75,13 @@ Những người tham gia nghiên cứu dựa vào các bộ lọc để tìm th
 
 ### Cho người dùng trải nghiệm trước khi họ cam kết  
 Những người tham gia nghiên cứu đã thất vọng bởi các site yêu cầu đăng ký trước để xem trang web, đặc biệt là khi thương hiệu không phải là quen thuộc. Mặc dù thông tin khách hàng có thể là quan trọng với việc kinh doanh của bạn, yêu cầu quá sớm có thể khiến ít đăng ký hơn.  
-![]()  
+![][14]    
 **Nên** Cho ngưòi dùng xem trang mà không yêu cầu đăng kí  
-![]()  
+![][15]    
 **Không nên**: Hiển thị phần login quá sớm  
 
 ### Hãy để người dùng trả phí dưới dạng khách  
-![]()  
+![][16]    
 
 **Nên** Cho phép ngưòi dùng chi chả với tài khoản khách  
 
@@ -94,7 +94,7 @@ Ghi nhớ và điền sẵn các tùy chọn cho người dùng đã đăng ký.
 Trên những thiết bị có chức năng gọi điện, các đường dẫn click-để-gọi cho phép Người dùng gọi điện chỉ đơn giản bằng cách chạm vào đường dẫn. Trên hầu hết các thiết bị mobile, Người dùng nhận được yêu cầu xác nhận gọi trước khi số máy được quay, hoặc một menu được hiển thị để hỏi người dùng nên làm gì với số máy .
 
 ### Khiến việc hoàn thành trên thiết bị khác trở nên dễ dàng  
-![]()  
+![][17]  
 **Nên** Giứp ngưòi dùng dễ dàng hoàn thành việc duyệt hay mua sắm trên thiết bị khác  
 
 Ngưòi thường muốn kết thúc tác vụ trên thiết bị khác. Ví dụ, họ có thể muốn xem một sản phẩm trên màn hình lớn hơn. Hoặc họ có thể đang bận và muốn hoànn thành nó sau. Hãy hỗ trợ trải nghiệm này của khách hàng bằng cách cho phép người dùng chia sẻ vật phẩm trên mạng xã hội, hoặc cho phép người dùng tự email cho bản thânLựa chọn input đơn giản nhất
